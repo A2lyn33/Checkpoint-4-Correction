@@ -330,5 +330,4 @@ Les réponses doivent être fournies dans le formulaire réponse et transmises a
 
 ---
 
-**Fin du document – Bon courage pour ton Checkpoint !**
 
